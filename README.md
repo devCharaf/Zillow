@@ -6,9 +6,9 @@ Then I used ```Selenium```library to enter these listings in a google form, to c
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/devCharaf/zillow/blob/main/Images/googleForm.png" alt="Snow" style="width:100%">
+    <img src="https://github.com/devCharaf/zillow/blob/main/Images/googleForm.png" alt="Snow" style="width:500%">
   </div>
   <div class="column">
-    <img src="https://github.com/devCharaf/zillow/blob/main/Images/googleSheet.png" alt="Forest" style="width:100%">
+    <img src="https://github.com/devCharaf/zillow/blob/main/Images/googleSheet.png" alt="Forest" style="width:500%">
   </div>
 </div>
