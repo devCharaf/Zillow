@@ -4,9 +4,11 @@ In this project, I use ```BeautifulSoup``` and ```Requests``` libraries to scrap
 
 Then I used ```Selenium```library to enter these listings in a google form, to create a a google sheet at the end.
 
-<p align="center">
-  <img src="https://github.com/devCharaf/zillow/blob/main/Images/googleForm.png" width="350" title="Google Sheet">
-</p>
-
-
-![alt text](https://github.com/devCharaf/zillow/blob/main/Images/googleForm.png?raw=true)
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/devCharaf/zillow/blob/main/Images/googleForm.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/devCharaf/zillow/blob/main/Images/googlesheet.pngg" alt="Forest" style="width:100%">
+  </div>
+</div>
