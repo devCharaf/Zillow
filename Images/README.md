@@ -1,0 +1,1 @@
+This folder contains screenshots of the results to give you an idea about the purpose of this project. These pictures are used in the main [README.md](https://github.com/devcharaf/zillow/readme.md) of this project.
