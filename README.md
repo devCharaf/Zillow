@@ -7,6 +7,6 @@ Then I used ```Selenium```library to enter these listings in a google form, to c
 
 <p align="left">
   <img src="https://github.com/devCharaf/zillow/blob/main/Images/googleForm.png" width="350" title="Google Sheet">
-  <img src="https://github.com/devCharaf/zillow/blob/main/Images/googleSheet.png" width="350" title="Google Sheet">
+  <img src="https://github.com/devCharaf/zillow/blob/main/Images/googleSheet.png" width="350" title="Google Sheet" style="padding: padding-bottom: 20px;">
 </p>
 
